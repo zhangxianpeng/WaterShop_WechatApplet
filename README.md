@@ -1,8 +1,3 @@
-# CRMEB XCX v3.x
-
-#### 介绍
-  CRMEB 3.x 小程序
-
 #### 使用说明
 
 1. 配置config.js 中的 HTTP_REQUEST_URL 修改为自己的域名
